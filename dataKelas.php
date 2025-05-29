@@ -1,5 +1,5 @@
 <?php
-require_once('kelas/Mahasiswa.php'); // Pastikan path dan nama file benar
+require_once('kelas/Mahasiswa.php');
 
 $mhs1 = new Mahasiswa("Evelyn Putria S");
 $mhs1->setNIM("244311040");
